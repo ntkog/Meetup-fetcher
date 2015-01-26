@@ -1,0 +1,19 @@
+{
+  "name": "Meetup-fetcher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Barrachina",
+  "license": "ISC",
+  "dependencies": {
+    "es6-module-loader": "^0.11.1",
+    "lodash": "^2.4.1",
+    "meetup-api": "^0.1.16",
+    "moment": "^2.8.4",
+    "require-dir": "^0.1.0",
+    "rx": "^2.3.22"
+  }
+}
