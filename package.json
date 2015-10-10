@@ -15,7 +15,7 @@
   "dependencies": {
     "es6-module-loader": "^0.11.1",
     "lodash": "^2.4.1",
-    "meetup-api": "^0.1.16",
+    "meetup-api": "0.1.16",
     "moment": "^2.8.4",
     "require-dir": "^0.1.0",
     "rx": "^2.3.22"
